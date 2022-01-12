@@ -1,0 +1,6 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+INCLUDE $HPEESOF_DIR/examples/DesignKit/DemoKit/lib.defs
+INCLUDE $HPEESOF_DIR/examples/DesignKit/DemoKit_Non_Linear/DemoKit_Non_Linear_v2.0/lib.defs
+DEFINE filtro_lib filtro_lib
+ASSIGN filtro_lib libMode shared

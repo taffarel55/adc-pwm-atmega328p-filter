@@ -1,0 +1,7 @@
+
+AC AC1[1] <filtro_lib:cell_1:schematic>   freq=(10 Hz->100 kHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+  Total stopwatch time     =    40.35 seconds.
+

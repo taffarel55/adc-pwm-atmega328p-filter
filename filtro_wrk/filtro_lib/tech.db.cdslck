@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      geral
+HostName                       LAPTOP-DU54B4LG
+ProcessIdentifier              8440
+ProcessCreationTime_UTC        1634585505
+ProcessCreationTime_Readable   10/18/21 16:31:45 Hora oficial do Brasil
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\geral\Documents\lab4\filtro_wrk\filtro_lib\tech.db.cdslck
+TimeEditLocked                 10/18/21 16:35:04 Hora oficial do Brasil
